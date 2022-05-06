@@ -102,7 +102,7 @@ The Split Data operator takes an ExampleSet as its input and delivers the partit
 
 First, we will execute the previous process, followed by a ‘Split Data’ operator using the ratio of 0.7 and 0.3. The reason is to split the data into 2 different models, one for training model and the other for testing model. Our selection of data ratio for the split is 0.7 and 0.3 as we want to use 30% of data for testing and 70% of data for training model. This will allow us to perform churn analysis to predict which customers are most likely to leave SingaTel base on the past data (training data which was 70%) it was being fed. The system is then being tested on the split data (testing data which was 30%) to test for the accuracy of the system.
 
-<img src="img/Evaluate Model Performance.png" alt="Evaluate Model Performance">
+<img src="img/Split Data.png" alt="Split Data">
 
 # 5.2 Decision Tree
 Next, we will add in a ‘Decision Tree’ operator into the process.
@@ -172,9 +172,3 @@ Lastly, an additional 1gb of data per month will be included in their contract i
 <b>Special offer for Adults:</b>
 For the adults, they typically watch less TV and instead use more of internet services and mobile services. Therefore, to persuade adults to remain with SingaTel, we have come up with an early renewal plan which includes a free gift as well as extra 2gb of data for the first 3 months when they renew their contracts early.
 Lastly, regarding internet service, we have also come up with a plan to provide the adults with a free new router whenever they renew their internet service contract, thereby persuading them to remain as customers of SingaTel by promoting contract renewal with enticing promotions and freebies.
-
-# References
-<ul>
-  <li>-</li>
-  <li>-</li>
-</ul>
