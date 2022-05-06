@@ -3,7 +3,6 @@
 The purpose of this report is to investigate the issue of Customers leaving SingaTel and subscribing to its competitors by identifying the common and key attributes that contributed to those who have left, likely to leave in the near future and why.
 
 To accomplish this objective, we will be conducting a data mining analysis using a complete dataset containing attributes regarding information on customers who have left SingaTel since Jan 2017 as well as those of existing customers.
-<img src="img/cover.jpeg" alt="Cover Page for SC1015">
 
 # Contributors
 
